@@ -1,9 +1,9 @@
-# Hackauthon-SLAF — ManAgent
+# Finaxys x Mistral Hackathon
 
 **ManAgent** : garder la maîtrise lorsque plusieurs agents IA interagissent et prennent des décisions.
-Hackathon Finaxys « Build What's Next » (23–24 octobre 2026), thème 04 — *Gouvernance multi-agents*.
 
-> Les agents proposent, les règles décident, l'humain tranche, et tout est prouvé.
+<img width="592" height="296" alt="ManAgent-logo-nobg" src="https://github.com/user-attachments/assets/4a436296-0bf4-4f07-9ba7-e7b04d6496c0" />
+
 
 ## Le problème
 
@@ -195,3 +195,7 @@ Signer une approbation pour curl ou le front :
   validation humaine et l'audit sont **réels** et testés.
 - En production, il faudrait une identité forte (OIDC/mTLS), des compteurs partagés (Redis), un stockage
   d'audit immuable (WORM) et une intégration SIEM avant toute action réelle.
+
+---
+
+Hackathon Finaxys x Mistral « Build What's Next » (23–24 octobre 2026), thème 04 Gouvernance multi-agents.
