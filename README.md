@@ -1,9 +1,11 @@
 # Finaxys x Mistral Hackathon
 
-**ManAgent** : garder la maîtrise lorsque plusieurs agents IA interagissent et prennent des décisions.
+<img width="592" height="296" alt="ManAgent-logo-white" src="https://github.com/user-attachments/assets/d9537599-5ea2-4ca0-9c1b-d79851f083dc" />
 
-<img width="592" height="296" alt="ManAgent-logo-nobg" src="https://github.com/user-attachments/assets/4a436296-0bf4-4f07-9ba7-e7b04d6496c0" />
+---
+**ManAgent** permet de garder la maîtrise lorsque plusieurs agents IA interagissent et prennent des décisions.
 
+<img width="1896" height="1069" alt="Screenshot 2026-10-24 094845" src="https://github.com/user-attachments/assets/9ddec415-963d-40b0-8f09-96ec1464b96d" />
 
 ## Le problème
 
